@@ -1,31 +1,22 @@
-# KAI-AI-Assistant
-Personal AI Assistant using Python, Ollama and local LLMs.
-# KAI - Knowledge & Artificial Intelligence
+## Projeto
 
-KAI é um assistente pessoal de IA desenvolvido em Python.
+KAI (Knowledge & Artificial Intelligence) é um assistente pessoal de IA desenvolvido em Python com foco em produtividade, automação e gerenciamento inteligente de informações.
 
-## Funcionalidades
+## Principais Recursos
 
-- Memória persistente
-- Gerenciamento de tarefas
-- Lembretes
-- Rotinas
-- Integração com LLMs locais
-- Pesquisa web
-- Arquitetura modular
+- Memória Persistente
+- Gerenciamento de Tarefas
+- Sistema de Lembretes
+- Integração com LLMs Locais
+- Pesquisa Web
+- Automações
 
-## Tecnologias
+## Documentação
 
-- Python
-- Ollama
-- Gemma 3
-- SQLite
-- JSON
+- [ocs/vision.md
+- [Funcionalidades](docsquitetura](docsmd
+- [Roadmap](docsd
 
-## Roadmap
+## Status
 
-- [x] Estrutura inicial
-- [x] Sistema de memória
-- [ ] Interface gráfica
-- [ ] Integração mobile
-- [ ] Comandos por voz avançados
+🚧 Projeto em desenvolvimento ativo.
